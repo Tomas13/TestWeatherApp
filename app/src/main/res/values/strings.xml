@@ -8,4 +8,6 @@
     <string name="m_s">m/s</string>
     <string name="pressure">Давление</string>
     <string name="hpa">hPa</string>
+    <string name="enter_city_name">Enter city name:</string>
+    <string name="city_name">city name</string>
 </resources>
